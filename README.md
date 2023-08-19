@@ -4,7 +4,7 @@ Proyecto Final de Programación 1 (ITLA)
 ## ASC Suite
 [ACS Suite](https://github.com/Deyf3r/Prog1.git "ACS Suite") esta solución ha sido creada en Java y MySQL. Esta suite de software integral está diseñada para satisfacer las necesidades de pequeñas y medianas empresas en la gestión eficiente de sus operaciones de venta y comercio. La suite se compone de varios módulos interconectados que abarcan desde la gestión de productos hasta la administración de clientes y la analítica de ventas.
 ## Vistas Previas
-(https://drive.google.com/file/d/10e7yn29MFvl5643x5OlezwEhnoLrAfOw/view?usp=sharing "VistaPrevia")
+![VistaPrevia](https://drive.google.com/file/d/10e7yn29MFvl5643x5OlezwEhnoLrAfOw/view?usp=sharing "VistaPrevia")
 ## Instalación
 #### Paso 1
 Dar clic en code, luego en download zip.
